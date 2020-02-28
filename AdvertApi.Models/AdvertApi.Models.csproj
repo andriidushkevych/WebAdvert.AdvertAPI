@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Andrii Dushkevych</Authors>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/andriidushkevych/WebAdvert.AdvertAPI</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/andriidushkevych/WebAdvert.AdvertAPI</RepositoryUrl>
+    <PackageId>ADushkevych.AdvertApi.Models</PackageId>
   </PropertyGroup>
 
 </Project>
